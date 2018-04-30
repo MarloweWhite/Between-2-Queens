@@ -1,0 +1,8 @@
+This was my first python project and we were tasked with recreating a card trick. In this I included my write ups(which may not be very good) however I believe it is important
+to show the whole project with 100% clarity and recieve various forms of criticism and feedback as it is the only way we improve. Through my write up you'll be able to see how
+I originally found the task quite daunting however after various forms of planning and drafting ways of attempting each task I was able to tackle each task and finish the project.
+A few extra features were attempted and there may be a minor bug at the end(sincere apologies) however I hope you enjoy the trick which I have craeted.
+
+Most Sincerely
+
+Marlowe
